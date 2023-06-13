@@ -1,5 +1,5 @@
 # CaTSim
-Solving the Graph Edit Distance problem using Deep Learning models \n
+Solving the Graph Edit Distance problem using Deep Learning models <br />
 Implementation of **CaTSim**: Cross Contrast and Top Nodes Similarity Learning and Computation
 
 ### Requirements
