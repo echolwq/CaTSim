@@ -29,7 +29,7 @@ Training a CaTSim model is handled by the `src/main.py` script which provides th
 
 #### Model options
 ```
-  --epochs                INT         Number of training epochs.        Default is 5.
+  --epochs                INT         Number of training epochs.               Default is 5.
   --filters-1             INT         Number of filter in 1st GCN layer.       Default is 128.
   --filters-2             INT         Number of filter in 2nd GCN layer.       Default is 64. 
   --filters-3             INT         Number of filter in 3rd GCN layer.       Default is 32.
@@ -65,11 +65,10 @@ python src/main.py --load /model_saved/model-name
 ```
 
 ### Reference
-<!-- This repository provides a PyTorch implementation of SimGNN as described in the paper:
 
 > SimGNN: A Neural Network Approach to Fast Graph Similarity Computation.
 > Yunsheng Bai, Hao Ding, Song Bian, Ting Chen, Yizhou Sun, Wei Wang.
 > WSDM, 2019.
-> [[Paper]](http://web.cs.ucla.edu/~yzsun/papers/2019_WSDM_SimGNN.pdf) -->
+> [[Paper]](http://web.cs.ucla.edu/~yzsun/papers/2019_WSDM_SimGNN.pdf) --
 ----------------------------------------------------------------------
 
