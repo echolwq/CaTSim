@@ -21,7 +21,7 @@ torchvision       0.3.0
 scikit-learn      0.20.0
 ```
 ### Datasets
-The datasets for this project is extracted from torch_geometric.GEDDatasets
+The datasets for this project is extracted from `torch_geometric.GEDDatasets` <br />
 https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.datasets.GEDDataset.html
 
 
