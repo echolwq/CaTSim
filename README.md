@@ -1,6 +1,6 @@
 # CaTSim
-Solving the Graph Edit Distance problem using Deep Learning models
-Implementation of CaTSim: Cross Contrast and Top Nodes Similarity Learning and Computation
+Solving the Graph Edit Distance problem using Deep Learning models \n
+Implementation of **CaTSim**: Cross Contrast and Top Nodes Similarity Learning and Computation
 
 ### Requirements
 The codebase is implemented in Python 3.5.2. package versions used for development are just below.
